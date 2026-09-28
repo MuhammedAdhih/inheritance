@@ -1,0 +1,43 @@
+1 inheritance
+----------------
+
+child can access/inheritance the parent class 
+
+
+2 single inheritance
+------------------------
+
+child can access/inheritance a single parent class 
+
+
+3 multiple inheritance
+------------------------
+
+child can access/inheritance 2 parent class 
+
+
+4 multilevel inheritance
+-----------------------------
+
+gp > p > c 
+
+5 hierarchial inheritance
+-------------------------------
+
+one parent , multiple child 
+
+6 hybrid inheritance 
+------------------------------
+
+combination of two or more types of inheritance
+
+
+
+
+
+
+
+
+
+
+
